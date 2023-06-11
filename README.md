@@ -1,6 +1,6 @@
 # do-dyndns
 
-A flexible and powerful DynDNS solution powered by DigitalOcean's serverless functions, fully written in Golang! 🚀
+A flexible and powerful DynDNS solution powered by DigitalOcean's serverless functions 🚀
 
 ## Prerequisites
 
@@ -54,6 +54,6 @@ Both routes can be triggered either using query parameters or with the payload i
 
 
 Now that your do-dyndns project is up and running, you can easily manage and update your DNS records automatically. 
-Enjoy the flexibility and convenience of having your domain always point to the right IP address! 😄
+Enjoy the flexibility and convenience of having your domain always point to the right IP address!
 
 Happy DynDNS-ing! 🎉
