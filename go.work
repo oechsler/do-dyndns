@@ -1,0 +1,5 @@
+go 1.20
+
+use ./packages/dyn/update4
+
+use ./packages/dyn/update6
