@@ -40,6 +40,8 @@ Sit back, relax, and watch as your DynDNS solution springs to life. Get ready to
 
 All that's missing now is to trigger the functions, for example, from your router's DynDNS service. You can use the `/update4` and `/update6` routes to update either IPv4 or IPv6.
 Both routes can be triggered either using query parameters or with the payload in the body of the request.
+
+I've tested it with my FRITZ!Box router, but it might also be adaptable to others as-well.
   
 ### Parameters
   
