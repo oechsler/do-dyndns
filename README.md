@@ -8,7 +8,7 @@ To embark on this exciting DynDNS adventure, you'll need a couple of things read
 
 - A domain in DigitalOcean's free DNS offering. Get ready to bring your domain to life!
 - A serverless function namespace in DigitalOcean. It's time to unleash the magic of serverless computing!
-- The DigitalOcean CLI (`doctl`) installed on your machine. We'll be using this command-line tool to seamlessly interact with DigitalOcean's API and manage our DynDNS setup like a boss.
+- The DigitalOcean CLI installed on your machine.
 
 ## Deployment
 
